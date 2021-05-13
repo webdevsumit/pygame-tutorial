@@ -1,3 +1,4 @@
+#part-5
 import pygame
 
 pygame.init()
